@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyBLE</string>
+
+    <string name="scanService">扫描并连接设备</string>
+    <string name="getServiceTime">获取设备当前时间</string>
+    <string name="setServiceTime">设置设备当前时间(写死）</string>
+    <string name="getCurrentWalk">获取当前步数</string>
+    <string name="getHistoryWalk">获取历史步数</string>
+    <string name="clearWalk">清除步数</string>
+    <string name="getCurrentHealth">获取当前心率、血压、血氧数据</string>
+    <string name="getHistoryHealth">获取历史心率、血压、血氧数据</string>
+    <string name="clearHealth">清除心率、血压、血氧数据</string>
+    <string name="getBattery">获得电池信息</string>
+    <string name="getCurrentTemperature">获取当前手腕温度</string>
+    <string name="getHistoryTemperature">获取历史手腕温度</string>
+    <string name="clearTemperature">清除温度记录</string>
+</resources>

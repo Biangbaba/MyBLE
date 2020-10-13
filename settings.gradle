@@ -1,0 +1,3 @@
+include ':blemodule'
+include ':app'
+rootProject.name = "MyBLE"
